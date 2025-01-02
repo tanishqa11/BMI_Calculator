@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1,h3{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+    font-size: 35px;
+    color: orange;
+    font-style: italic
+    
+}
+p{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    color:blue;
+    font-size: large;
+    
+}
+button{
+    
+    width: 60%;
+    height:30px;
+    background-color:azure;
+    color: black;
+    font-size: larger;
+
+}
+    
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+input{
+    width: 70%;
+    height: 30px;
+   
+}
